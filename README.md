@@ -70,37 +70,6 @@ The project focuses on keeping the implementation **simple, understandable, and 
 | 💻 IntelliJ IDEA | Development environment             |
 | 🔧 Git & GitHub  | Version control and project hosting |
 
----
-
-
-
-## 📂 Project Structure
-
-
-CampusCare
-│
-├── src
-│   └── com.campuscare
-│       │
-│       ├── Main.java
-│       ├── StudentDashboard.java
-│       ├── SubmitComplaint.java
-│       ├── ComplaintFileManager.java
-│       ├── MyComplaints.java
-│       │
-│       ├── AdminDashboard.java
-│       ├── AllComplaints.java
-│       ├── ManageComplaint.java
-│       │
-│       └── PrincipalDashboard.java
-│
-├── data
-│   └── complaints.txt
-│
-└── README.md
-
-
----
 
 ## 🗃️ Complaint Data
 
